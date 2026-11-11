@@ -26,7 +26,7 @@ FEEDS = [
     ("Ollama Blog",    "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml"),
 ]
 
-GEMINI_MODEL     = "gemini-2.5-flash"
+GEMINI_MODEL     = "gemini-3.8-flash"
 USER_AGENT       = "Mozilla/5.0 (compatible; AIDigestBot/1.0; +https://github.com/you/repo)"
 SHEET_NAME       = "AI Digest"
 ITEMS_SHEET      = "Items"
